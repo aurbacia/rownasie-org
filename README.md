@@ -4,7 +4,7 @@
 
 I developed this website for Equality Factory Association 2-3 years ago, first in PHP and Wordpress. Somewhere at October 2023 I rewritten this website into Astro with SSG. Currently Equality Factory has a new website, but I still think, that this repo is pretty good example of my work.
 
-I also deployed website from this repository under url https://ef-old.kbac.dev on own k8s cluster.
+I also deployed website from this repository under url https://ef-old.aurbac.dev on own k8s cluster.
 
 ## Techstack
 
